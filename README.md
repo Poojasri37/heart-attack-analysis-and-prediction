@@ -4,5 +4,3 @@ One of the most rewarding moments was predicting the heart condition of a 63-yea
 💡 This project taught me the importance of precision, persistence, and the impact of data-driven solutions in healthcare. I am eager to dive deeper into this domain and explore new possibilities.
 🚀 If you have any questions about the deployment process, the dataset, or the modeling techniques, feel free to reach out—I'm always happy to share insights and learn from others.
 hashtag#AI hashtag#MachineLearning hashtag#Gradio hashtag#HeartDiseasePrediction hashtag#ModelDeployment hashtag#DataScience hashtag#HealthcareInnovation hashtag#KeepLearning
- hiii
-helo
